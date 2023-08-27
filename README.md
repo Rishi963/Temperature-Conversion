@@ -11,11 +11,9 @@ Import the module and call the convert function with the parameters.
 > Type : Conversion type, Eg: c-f.
 
 ### Parameters for Type
-> c-f : To convert Celsius to Fahrenheit.
-
-> c-k : To convert Celsius to Kelvin.
-
-> c-r : To convert Celsius to Rankine.
+- c-f : To convert Celsius to Fahrenheit.
+- c-k : To convert Celsius to Kelvin.
+-c-r : To convert Celsius to Rankine.
 
 > k-c : To convert Kelvin to Celsius.
 
