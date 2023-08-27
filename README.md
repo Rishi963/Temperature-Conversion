@@ -13,26 +13,17 @@ Import the module and call the convert function with the parameters.
 ### Parameters for Type
 - c-f : To convert Celsius to Fahrenheit.
 - c-k : To convert Celsius to Kelvin.
--c-r : To convert Celsius to Rankine.
-
-> k-c : To convert Kelvin to Celsius.
-
-> k-f : To convert Kelvin to Fahrenheit.
-
-> k-r : To convert Kelvin to Rankine.
-
-> f-c : To convert Fahrenheit to Celsius.
-
-> f-k : To convert Fahrenheit to Kelvin.
-
-> f-r : To convert Fahrenheit to Rankine.
-
-> r-c : To convert Rankine to Celsius.
-
-> r-f : To convert Rankine to Fahrenheit.
-
-> r-k : To convert Rankine to Kelvin.
-
+- c-r : To convert Celsius to Rankine.
+- k-c : To convert Kelvin to Celsius.
+- k-f : To convert Kelvin to Fahrenheit.
+- k-r : To convert Kelvin to Rankine.
+- f-c : To convert Fahrenheit to Celsius.
+- f-k : To convert Fahrenheit to Kelvin.
+- f-r : To convert Fahrenheit to Rankine.
+- r-c : To convert Rankine to Celsius.
+- r-f : To convert Rankine to Fahrenheit.
+- r-k : To convert Rankine to Kelvin.
+  
 Sample Code!
 ```
 const convert = require("temperature-conversion")
