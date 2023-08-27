@@ -26,7 +26,7 @@ Import the module and call the convert function with the parameters.
   
 Sample Code!
 ```
-const convert = require("temperature-conversion")
+const convert = require("temperature-conversion");
 
 console.log(convert(25,"C-f"));
 console.log(convert(25,"c-k"));
